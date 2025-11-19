@@ -1,0 +1,1 @@
+# Tugas-Citra-Digital-menggunakan-metode-adjustment.py
